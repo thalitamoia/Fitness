@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="Imc">Imc</string>
+    <string name="imc_desc">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso
+        do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal,
+        acima ou abaixo do peso desejado.</string>
+
+    <string name="imc_desc1"> Preencha os campos de peso e altura para descobrir o seu IMC.</string>
+    <string name="weight">Peso(Kg)</string>
+    <string name="height">Altura(Cm)</string>
+    <string name="calc">Calcular</string>
+    <string name="inicio_descricao">Escolha qual calculo você quer começar!</string>
+    <string name="inicio_descricao2">Sua Saude sempre em 1º lugar!</string>
+    <string name="erro">Preencha os campos corretamente</string>
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+    <string name="imc_response">Imc: %1$.2f</string>
+    <string name="save">Salvar</string>
+    <string name="calc_saved">Registro salvo com sucesso</string>
+    <string name="calc_removed">Registro removido com sucesso</string>
+    <string name="search">Buscar</string>
+    <string name="tmb_desc">TMB é o cálculo para descobrir a quantidade calórica que o corpo necessita com base no seu estilo de vida</string>
+    <string name="age">Idade</string>
+    <string name="tmb_response">Tmb: %1$.2f</string>
+    <string name="delete_message">Você realmente quer excluir o registro?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="tmb">Taxa de Metabolismo</string>
+    <string name="list_response">resultado: %1$.2f, data: %2$s</string>
+</resources>
